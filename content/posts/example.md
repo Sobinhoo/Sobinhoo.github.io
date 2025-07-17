@@ -1,11 +1,12 @@
 ---
-title: "Draft sample post"
-date: 2025-04-03
-description: "This is an example of drafts."
-keywords: ["gohugo", "hugo", "go", "blog", "draft"]
-draft: false
-tags: ["hugo", "draft"]
-summary: This is an example draft post with a very short content.
+title: "Hugo shortcodes"
+description: Here is a demo of all shortcodes available in Hugo.
+date: 2024-12-27
+lastmod: 2025-04-02
+keywords: ["gohugo", "hugo", "go", "blog"]
+tags: ["hugo", "themes"]
+summary: This post shows the default Hugo shortcodes and how they are rendered.
+toc: true
 ---
 
-Mamada gigante
+sexo sexo sexo
