@@ -2,7 +2,7 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Toigian'
 theme = "hugo-toigian"
-themesDir = "../.."
+themesDir = "themes"
 # (Optional) If you provide a Disqus shortname, comments will be enabled on
 # all pages.
 # disqusShortname = "my-site"
