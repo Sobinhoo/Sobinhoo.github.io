@@ -1,52 +1,72 @@
-baseURL = 'http://example.org/'
-languageCode = 'en-us'
-title = 'Toigian'
-theme = "hugo-toigian"
-themesDir = "themes"
-# (Optional) If you provide a Disqus shortname, comments will be enabled on
-# all pages.
-# disqusShortname = "my-site"
+# The following line is needed
+# when running the example site
+# from a subdir of the theme
+themesDir = "../../"
 
-[params]
-# (Optional, default true): Controls table of contents visibility on right side of pages.
-# Start and end levels can be controlled with markup.tableOfContents setting.
-toc = true
-# (Optional, default true) Enables comments template on pages
-# By default partials/docs/comments.html includes Disqus template
-# See https://gohugo.io/content-management/comments/#configure-disqus
-# Can be overwritten by same param in page frontmatter
-comments = true
-
-[params.author]
-name = "Kien Nguyen-Tuan"
-email = "kiennt2609@gmail.com"
+title = "not-much demo"
+theme = "not-much"
+languageCode = "en-us"
+baseURL = "https://example.org/"
+copyright = "Sample custom notice © {year}"
 
 [markup]
-  defaultMarkdownHandler = "goldmark"
-  # By default, Goldmark trims unsafe outputs which might prevent some shortcodes from rendering.
-  # It is recommended to set markup.goldmark.renderer.unsafe=true if you encounter problems.
+  [markup.highlight]
+    style = 'dracula'
   [markup.goldmark]
     [markup.goldmark.renderer]
-      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
-  [markup.highlight]
-    codeFences = true
-    guessSyntax = true
-    lineNos = false
-    noClasses = false
-    tabWidth = 4
-  [markup.tableOfContents]
-    startLevel = 2
-    endLevel = 4
-    ordered = true
+      unsafe = true
 
-# The left side navbar at the top
+
+[params]
+theme = "auto"
+palette = "eink"
+showThemeNotice = true
+showPostsSummary = true
+
+# Giscus Comment System
+[params.giscus]
+repository = "username/repository"
+repositoryId = "repositoryId"
+categoryName = "categoryName"
+categoryId = "categoryId"
+mapping = "pathname"
+theme = "preferred_color_scheme"
+language = "en"
+lazyLoading = true
+
+# Navigation
 [menu]
-  [[menu.nav]]
-  name = "About"
-  url = "/about"
-  weight = 2
+  [[menu.main]]
+    identifier = "home"
+    name = "home"
+    title = "Home"
+    url = "/"
+    weight = 1
+  
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    title = "posts"
+    url = "/posts"
+    weight = 3
+  
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    title = "About"
+    url = "/about"
+    weight = 2
+  
+  [[menu.main]]
+    identifier = "tags"
+    name = "tags"
+    title = "tags"
+    url = "/tags"
+    weight = 4
 
-  [[menu.nav]]
-  name = "Posts"
-  url = "/posts"
-  weight = 3
+  [[menu.main]]
+    identifier = "github"
+    name = "github"
+    title = "GitHub"
+    url = "https://github.com/imgios/not-much"
+    weight = 5
