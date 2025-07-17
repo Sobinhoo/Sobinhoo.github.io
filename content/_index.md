@@ -1,7 +1,11 @@
 ---
-lead: "Basic, simple and minimal Hugo theme"
+lead: "Be all that u can be"
 ---
 
-This is a demo of the not-much theme, built with Hugo, and is intended to be trouble-free. Explore it to see what not-much has to offer.
+Bem-vind@ seja lá quem for que entrou aqui, um abraço. <3
 
-💡 Check the [about page](./about) to learn more about this theme.
+Dá uma olhada na [about page](./about), é lá que tu vai saber um pouco mais de mim
+
+Para acontecimentos mais pontuais, te apresento [posts page](./posts)
+
+Caso se passe MUUUUITO tempo sem nada, ou eu morri, ou eu desisti de algo como de costume.
