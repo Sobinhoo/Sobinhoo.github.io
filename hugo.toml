@@ -3,7 +3,7 @@
 # from a subdir of the theme
 themesDir = "themes"
 
-title = "not-much demo"
+title = ":D"
 theme = "not-much"
 languageCode = "en-us"
 baseURL = "https://example.org/"
@@ -65,8 +65,8 @@ lazyLoading = true
     weight = 4
 
   [[menu.main]]
-    identifier = "github"
-    name = "github"
-    title = "GitHub"
-    url = "https://github.com/imgios/not-much"
+    identifier = "my links"
+    name = "my links"
+    title = "my links"
+    url = "https://www.youtube.com/@Sobinho"
     weight = 5
