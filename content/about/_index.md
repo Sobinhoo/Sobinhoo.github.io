@@ -8,7 +8,8 @@ Oi oi, então: Eu não faço a menor ideia de como começar isso, sendo bem sinc
 
 Bom, eu me chamo Roberto, tenho atualmente 20 anos, sou um perdido no que eu de fato devo fazer da vida, eu só sei que amo meus amigos, namorada, 
 fazer/ouvir música e dar aula. Sempre trabalhei como professor e desde que me entendo por gente eu gosto muito de me expressar, juntou-se isso e
-um amigo (meu melhor amigo S2) que me apresentou esse universo de produzir músicas no meio de 2019. 
+um amigo (meu melhor amigo S2) que me apresentou esse universo de produzir músicas no meio de 2019 e pronto, veio aí algo que eu nunca conseguiria
+largar: Música.
 
 Sou frustrado em muitas coisas, tenho muito no que melhorar, não sei ao certo como seguir com meus projetos, então resolvi que precisava de mais
 um, que vai ser esse bloguinho aqui. Não sei ao certo quantas pessoas vou alcançar por aqui, nem acho que esse seja o objetivo, eu só gostei muito
