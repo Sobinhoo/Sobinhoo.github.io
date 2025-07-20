@@ -1,5 +1,5 @@
 ---
-title: "Hugo shortcodes"
+title: "Hugo adada"
 description: Here is a demo of all shortcodes available in Hugo.
 date: 2024-12-27
 lastmod: 2025-04-02
