@@ -65,8 +65,8 @@ lazyLoading = true
     weight = 5
 
   [[menu.main]]
-    identifier = ""
-    name = ""
-    title = ""
-    url = "/"
+    identifier = "aurora"
+    name = "aurora"
+    title = "aurora"
+    url = "/aurora"
     weight = 4
