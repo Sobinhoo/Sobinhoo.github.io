@@ -65,8 +65,8 @@ lazyLoading = true
     weight = 4
 
   [[menu.main]]
-    identifier = "my links"
-    name = "my links"
-    title = "my links"
-    url = "https://www.youtube.com/@Sobinho"
+    identifier = "aurora"
+    name = "aurora"
+    title = "aurora"
+    url = "/aurora"
     weight = 5
