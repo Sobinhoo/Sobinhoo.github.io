@@ -1,11 +1,11 @@
 ---
 title: "Capitulo 1"
-description: 
-date: 2025-07-21
-lastmod: 2025-07-21
+description: Here is a demo of all shortcodes available in Hugo.
+date: 2024-12-27
+lastmod: 2025-09-09
 keywords: ["aurora", "anjos", "blog"]
 tags: ["Aurora"]
-summary:
+summary: "Se Deus me ouvisse agora, ouviria não um pedido, mas um sussurro cansado, quase sem voz. Porque nem todo clamor precisa ser alto; alguns são apenas o eco do que já fomos, tentando não desaparecer por completo."
 toc: true
 ---
 
