@@ -43,13 +43,18 @@ func main() {
 
 {{< figure src="https://images.unsplash.com/photo-1560032779-0a8809186efd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=80" title="Dave Herring" >}}
 
+
+## Github Gist
+
+{{< gist imgios f587d813ec6c851d700054f89230fb42 >}}
+
 ## Youtube video
 
 {{< youtube w7Ft2ymGmfc >}}
 
-## Tweet (X)
+## Tweet
 
-{{< x user="SanDiegoZoo" id="1453110110599868418" >}}
+{{< tweet user="GoHugoIO" id="877500564405444608" >}}
 
 ## Vimeo
 
